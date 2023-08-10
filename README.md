@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on "online test platform" that help teachers assign quizzes/tests in interactive way  
   
 
-- 🌱 I’m currently learning Data Structures & Algorithmes  
+- 🌱 I’m currently learning Algorithmatic Trading  
   
 
 - ❓ Ask me about anything related to Web-development technologies   
